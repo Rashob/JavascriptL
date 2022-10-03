@@ -12,8 +12,6 @@ return product;
 
 }
 
-factorial(5)
-
 
 
 console.log(factorial(6));
