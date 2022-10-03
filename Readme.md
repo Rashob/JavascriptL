@@ -25,6 +25,8 @@
 
 <br>
 </br>
+<text align="center">
+
 
 ## **CONTENTS THAT ARE AVALABLE HERE --**
 
