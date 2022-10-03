@@ -26,7 +26,8 @@
 
 <br>
 </br>
-<text align="center">
+
+<div text align="center">
 
 
 ## **CONTENTS THAT ARE AVALABLE HERE --**
@@ -45,4 +46,5 @@
 <br>
 </br>
 
- **FUNCTION**
+**FUNCTION**
+</div>
